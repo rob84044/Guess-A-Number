@@ -10,7 +10,7 @@ Here, talk about what the project is. I know the name of the game is pretty self
 ## Background
 
 ​
-This project utilizes vanilla javascript and DOM manipulation to allow a user to play a number guessing game. The UI utilizes the Skeleton CSS framework. I use Netlify for a CI/CD provider.
+This project utilizes vanilla JavaScript and DOM manipulation to allow a user to play a number guessing game. The UI utilizes the Skeleton CSS framework. Netlify is used as a CI/CD provider.
 ​
 ​
 
