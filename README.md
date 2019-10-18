@@ -1,7 +1,6 @@
 # Guess-A-Number [![Netlify Status](https://api.netlify.com/api/v1/badges/b7b319d3-ca86-4bf7-a7b3-09db04ed7ffd/deploy-status)](https://app.netlify.com/sites/confident-bardeen-b277e6/deploys)
 
-​
-Here, talk about what the project is. I know the name of the game is pretty self-explanatory, but just include a sentence or two.
+As a player of the game, you will be able to guess up to 6 times a number between 1 and 25. If you guess the number correctly, you will get a confirmation message that you won. If you don't guess the number, you will be prompted to guess again up to 5 additional times. If you don't guess the number by the time your guess count runs out you lose the game. You will see a prompt to start the game whether you win or loose. So play away, and keep playing till win!
 ​
 
 [**Play the Game 🎮**](https://numberguesser.bypedersen.com/)
