@@ -17,5 +17,4 @@ This project utilizes vanilla javascript and DOM manipulation to allow a user to
 ## Why I'm Proud of this Project
 
 ​
-This was my very first project that ever involved javascript and DOM manipulation. Before this I just dabbled with HTML and CSS. If HTML was my introduction to development, when I was introduced to javascript it was equivalent to me being thrown into the deep end of a pool. It was a difficult to learn language at first, but now has become a reliable force that I can rely on. I have enjoyed learning javascript to implement it `vanilla` in projects such as these or in frameworks such as React or Node.
-Collapse
+This was my first-ever project that involved using JavaScript and DOM manipulation. Before this, I had only ever dabbled with HTML and CSS. If HTML was my introduction to development, then when I was introduced to JavaScript it was the equivalent to me being thrown into the deep end of a pool. It was a difficult to learn the language at first, but now has become a reliable force that I can rely on. Since becoming proficient with JavaScript, I have enjoyed using vanilla JavaScript in projects like this one or in frameworks such as React or Node.
